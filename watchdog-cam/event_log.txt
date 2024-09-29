@@ -1,0 +1,38 @@
+2024-09-28 01:02:46 - Video saved: Saved\VID_20240928_010244.mp4 (Trigger: User Quit)
+2024-09-28 01:02:46 - Transcription failed: Saved\VID_20240928_010244.mp4 - [Errno 2] No such file or directory: 'Saved\\Saved\\VID_20240928_010244.mp4'
+2024-09-28 01:02:47 - Camera released and application closed.
+2024-09-28 01:08:18 - Video saved: Saved\VID_20240928_010817.mp4 (Trigger: User Quit)
+2024-09-28 01:08:18 - Transcription failed: Saved\VID_20240928_010817.mp4 - [Errno 2] No such file or directory: 'Saved\\Saved\\VID_20240928_010817.mp4'
+2024-09-28 01:08:18 - Camera released and application closed.
+2024-09-28 01:09:29 - Video saved: Saved\VID_20240928_010928.mp4 (Trigger: User Quit)
+2024-09-28 01:09:29 - Transcription failed: Saved\VID_20240928_010928.mp4 - [Errno 2] No such file or directory: 'Saved\\Saved\\VID_20240928_010928.mp4'
+2024-09-28 01:09:30 - Camera released and application closed.
+2024-09-28 01:10:18 - Video saved: Saved\VID_20240928_011018.mp4 (Trigger: User Quit)
+2024-09-28 01:10:39 - Transcription successful: Saved\VID_20240928_011018.mp4
+2024-09-28 01:10:39 - Camera released and application closed.
+2024-09-28 01:13:00 - Video saved: Saved\VID_20240928_011259.mp4 (Trigger: User Quit)
+2024-09-28 01:13:37 - Transcription successful: Saved\VID_20240928_011259.mp4
+2024-09-28 01:14:42 - Video saved: Saved\VID_20240928_011437.mp4 (Trigger: Buffer Full)
+2024-09-28 09:50:27 - Video saved: Saved\VID_20240928_095026.mp4 (Trigger: User Quit)
+2024-09-28 09:51:08 - Transcription failed: Saved\VID_20240928_095026.mp4 - "Unable to determine the intended type of the `dict`. For `Content`, a 'parts' key is expected. For `Part`, either an 'inline_data' or a 'text' key is expected. For `Blob`, both 'mime_type' and 'data' keys are expected. However, the provided dictionary has the following keys: ['system', 'user']"
+2024-09-28 09:51:25 - Manual interruption (Ctrl + C). Exiting gracefully.
+2024-09-28 09:51:25 - Camera released and application closed.
+2024-09-28 09:54:40 - Video saved: Saved\VID_20240928_095439.mp4 (Trigger: User Quit)
+2024-09-28 09:55:15 - Transcription failed: Saved\VID_20240928_095439.mp4 - 'File' object has no attribute 'blob_id'
+2024-09-28 09:55:35 - Manual interruption (Ctrl + C). Exiting gracefully.
+2024-09-28 09:55:35 - Camera released and application closed.
+2024-09-28 10:01:18 - Video saved: Saved\VID_20240928_100117.mp4 (Trigger: User Quit)
+2024-09-28 10:01:49 - Transcription successful: Saved\VID_20240928_100117.mp4
+2024-09-28 10:01:58 - Video saved: Saved\VID_20240928_100157.mp4 (Trigger: User Quit)
+2024-09-28 10:02:26 - Transcription successful: Saved\VID_20240928_100157.mp4
+2024-09-28 10:02:44 - Video saved: Saved\VID_20240928_100242.mp4 (Trigger: User Quit)
+2024-09-28 10:03:28 - Transcription failed: Saved\VID_20240928_100242.mp4 - Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. Please check the `candidate.safety_ratings` to determine if the response was blocked.
+2024-09-28 10:03:39 - Manual interruption (Ctrl + C). Exiting gracefully.
+2024-09-28 10:03:40 - Camera released and application closed.
+2024-09-28 10:04:57 - Video saved: Saved\VID_20240928_100457.mp4 (Trigger: User Quit)
+2024-09-28 10:05:17 - Transcription successful: Saved\VID_20240928_100457.mp4
+2024-09-28 10:05:45 - Video saved: Saved\VID_20240928_100543.mp4 (Trigger: User Quit)
+2024-09-28 10:06:45 - Transcription successful: Saved\VID_20240928_100543.mp4
+2024-09-28 10:07:14 - Manual interruption (Ctrl + C). Exiting gracefully.
+2024-09-28 10:07:14 - Camera released and application closed.
+2024-09-28 10:26:56 - Video uploaded to Firebase: Saved\VID_20240928_102647.mp4
